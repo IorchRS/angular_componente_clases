@@ -1,0 +1,72 @@
+.fondo{
+    margin: 0px;
+    padding: 0px;
+    
+ }
+ img{
+    vertical-align: top; 
+    display: inline-block;
+    padding: 5px 0px 0px 0px;
+    border-radius: 15px;
+    position: relative;
+    top: -9px;
+ }
+.izquierda{
+    font-weight: bold;
+    width: 15%;
+    
+    color: rgb(129, 115, 115);
+    margin: 0%;
+    vertical-align: top;
+   text-align: center;
+   font-style: inherit;
+font-size: 17px;
+display: inline-block;
+padding: 16px 0px 0px 0px;
+height: 23px;
+}
+
+.blanco{
+background-color: white;
+width: 50%;
+height: 15px;
+margin: 0px;
+vertical-align: top;
+}
+.signup:hover{
+background-color: rgb(74, 156, 204);
+
+}
+.signup{
+background-color: rgb(72, 222, 241);
+width: 15%;
+height: 15px;
+margin: 0px;
+vertical-align: baseline;
+text-align: center;
+font-style: inherit;
+font-size: 17px;
+font-weight: bold;
+color: rgb(253, 252, 252);
+}
+.login:hover{
+background-color: rgb(218, 211, 211);
+
+}
+.login{
+    font-weight: bold;
+    width: 15%;
+    height: 15px;
+    color: rgb(129, 115, 115);
+margin: 0px;
+vertical-align: top;
+text-align: center;
+font-style: inherit;
+font-size: 17px;
+}
+.posicion{
+    
+display: inline-block;
+padding: 14px 0px 20px 0px;
+border-radius: 15px;
+}
